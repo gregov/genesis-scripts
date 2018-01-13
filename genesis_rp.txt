@@ -1,0 +1,298 @@
+EMOTIONS
+ack            admire         apologize      avert
+acknowledge    agree          applaud
+back           beg            blink          bounce         brood
+bat            bite           blow           bow            burp
+beam           blanch         blush          breathe
+beckon         blank          boggle         brighten
+cackle         chuckle        compliment     congratulate   cry
+caress         clap           conf           cough          cuddle
+cheer          clear          confuse        cower          curl
+choke          comfort        confused       cringe         curse
+chortle        complain       congrat        cross          curtsey
+dance          despair        disagree       drool          duh
+eeks           excuse         explode        eyebrow
+fart           ffinger        flex           fondle         fret
+fawn           fidget         flip           forgive        frown
+feign          finger         flirt          french         fume
+gag            giggle         grimace        groan          grumble
+gasp           glare          grin           grovel
+gesture        greet          grit           growl
+hang           hmm            howl           hum
+hiccup         hold           hug
+ignore
+jump
+kick           kiss           knee           kneel
+laugh          leer           listen
+lean           lick           love
+melt           moan           mourn          mumble
+narrow         nibble         nod            nudge          nuzzle
+oops           ouch
+pace           pat            pinch          ponder         protest
+panic          peer           point          pounce         puke
+pant           pet            poke           pout           purr
+raise          roar           rolleyes       ruffle
+scold          sigh           sneeze         squeeze        stretch
+scowl          sing           snicker        squirm         strut
+scratch        slap           sniff          stagger        stumble
+scream         smell          snore          stare          sulk
+shake          smile          snort          startle        swallow
+shiver         smirk          snuggle        steam          swear
+show           snap           sob            stick          sweat
+shrug          snarl          spank          stomp          swoon
+shudder        sneer          spit           strangle
+tackle         thank          thumb          touch          twiddle
+tap            think          tickle         tremble        twinkle
+tease          threaten       tingle         trust          twitch
+wail           weep           whistle        wink           worship
+wait           whimper        wiggle         wonder         wring
+wave           whine          wince          worry
+yawn           yell           yodel
+
+
+
+ADVERBS
+absentmindedly     aggressively       angelically        archly
+accidentally       agreeably          angrily            around
+accomodatingly     agreement          annoyedly          arousedly
+accusingly         aimlessly          annoyingly         arrogantly
+acidly             airily             anonymously        ashamedly
+acknowledgingly    alertly            anxiously          assertively
+adeptly            amazedly           anyway             astonishingly
+admiringly         amazingly          apathetically      attentively
+adorably           ambiguously        apologetically     audibly
+adoringly          ambitiously        apoplectically     automatically
+affectedly         ambivalently       appreciatively     awkwardly
+affectionately     amiably            apprehensively
+affirmatively      amicably           appropriately
+again              amusedly           approvingly
+back               benevolently       blissfully         brightly
+badly              benignly           bloodthirstily     brilliantly
+balefully          bitterly           bluntly            briskly
+barely             bizarrely          boldly             broadly
+bashfully          blamelessly        boringly           brokenly
+beautifully        blandly            bovinely           brotherly
+begrudgingly       blankly            boyishly           busily
+belatedly          blatantly          bravely
+belligerently      bleakly            breathlessly
+bemusedly          blindly            briefly
+calmly             cluelessly         confidently        cowardly
+carefully          clumsily           confusedly         coyly
+carelessly         coaxingly          conspiratorially   crazily
+casually           coldly             contagiously       creatively
+cattily            colourfully        contemplatively    criminally
+cautiously         comfortably        contemptuously     critically
+ceremonially       comfortingly       contentedly        crookedly
+challengingly      compassionately    continuously       crudely
+charmingly         complacently       conviction         cruelly
+cheekily           completely         convincingly       cryptically
+cheerfully         compliantly        cooperatively      cunningly
+childishly         comprehendingly    coquettishly       curiously
+cleverly           compulsively       cordially          curtly
+clingingly         concentratedly     courageously       cutely
+clinically         concernedly        courteously        cynically
+closely            condescendingly    covertly
+dangerously        deliciously        diabolically       distortedly
+darkly             delightedly        diplomatically     dizzily
+deadly             delightfully       directly           dolefully
+dearly             deliriously        dirtily            dominantly
+decadently         demandingly        disappointedly     doubtfully
+deceivingly        dementedly         disapprovingly     doubtlessly
+decently           demonically        disarmingly        dourly
+decisively         demurely           disbelief          dramatically
+decliningly        depreciatingly     discreetly         dreadfully
+decoratively       depressively       disdainfully       dreamily
+deeply             derisively         disgustedly        drunkenly
+defensively        desperately        dishonestly        dryly
+defiantly          despondently       dishonourably      dubiously
+degradingly        determinedly       dismissively       dumbly
+dejectedly         devilishly         disorientedly      dutifully
+deliberately       deviously          disrespectfully    dwarvishly
+delicately         devotedly          distantly
+eagerly            embarrassedly      enviously          expansively
+earnestly          emotionally        erotically         expectantly
+easily             emphatically       erroneously        experimentally
+eastward           enchantingly       eternally          expertly
+eerily             encouragingly      euphorically       explanatorily
+egocentrically     endearingly        evasively          exploratively
+egoistically       endlessly          evilly             explosively
+egotistically      energetically      excessively        exquisitely
+elegantly          enigmatically      excitedly          extensively
+eloquently         enthusiastically   exhaustedly        exuberantly
+elvishly           enticingly         exotically
+facetiously        festively          fluently           frantically
+facilely           feverishly         fluidly            freakishly
+faintly            fiendishly         fondly             friendly
+fanatically        fiercely           foolishly          frostily
+fancifully         firmly             forcefully         frustratedly
+farewell           flagrantly         forgetfully        functionally
+fascinatedly       flatulently        forgivingly        funnily
+fatherly           flauntingly        forlornly          furiously
+fearfully          fleetingly         formally           furtively
+feebly             flippantly         formidably         fuzzily
+ferociously        flirtingly         forsakenly
+gallantly          gleefully          graciously         grimly
+generously         gloomily           grandiosely        grudgingly
+gently             gnomishly          gratefully         gruffly
+ghostly            goodbye            gratuitously       guiltily
+gingerly           goofily            gravely
+girlishly          gracefully         greedily
+halfheartedly      hauntingly         heroically         horribly
+handsomely         healthily          hesitantly         horror
+happily            heartbrokenly      hideously          humanely
+hard               heartily           hoarsely           humanly
+harder             heartlessly        hobbitishly        humbly
+harmlessly         heavily            hollowly           humiliatedly
+harmonically       heedlessly         honestly           humourlessly
+harshly            hellishly          honourably         hungrily
+hastily            helpfully          hopefully          hurriedly
+hatefully          helplessly         hopelessly         hypnotically
+haughtily          heretically        hornily            hysterically
+icily              impressively       ingratiatingly     intently
+idiotically        imprudently        innocently         interestedly
+idly               impudently         inquiringly        intimately
+ignorantly         inanely            inquisitively      invincibly
+imaginatively      incestuously       insanely           invisibly
+impatiently        incoherently       insecurely         invitingly
+imperceptibly      inconspicuously    insincerely        invulnerably
+impishly           incredulously      insistently        ironically
+implicitly         indecently         instantly          irresistibly
+imploringly        indifferently      insufferably       irritably
+impolitely         indignantly        intelligently
+importantly        infectiously       intensely
+impotently         ingeniously        intentionally
+jauntily           jeeringly          jovially           joyously
+jealously          jokingly           joyfully           judiciously
+keenly             kindly             kinkily            knowingly
+languidly          levelly            lingeringly        lovingly
+laughingly         lewdly             loftily            lustfully
+lazily             lightheadedly      longingly
+lecherously        lightheartedly     lopsidedly
+lethargically      lightly            loudly
+madly              meekly             mindlessly         moribundly
+magnanimously      melancholically    mirthfully         morosely
+majestically       melodramatically   mischievously      motherly
+malevolently       menacingly         miserably          motionlessly
+maliciously        mercifully         mistakenly         mournfully
+malignantly        mercilessly        mockingly          murderously
+maniacally         merrily            modestly           musically
+masochistically    meticulously       monotonously       mysteriously
+materialistically  mightily           moodily
+meaningfully       mildly             morbidly
+naively            neatly             nobly              noticeably
+nakedly            negatively         noisily            notoriously
+nastily            nervously          nonchalantly
+naughtily          neutrally          northward
+nauseously         nicely             nostalgically
+obediently         observantly        omnipotently       outrageously
+obnoxiously        oddly              ooc                overbearingly
+obscenely          officiously        openly             overwhelmingly
+obsequiously       ominously          optimistically
+painfully          pessimistically    poorly             profoundly
+paranoid           petulantly         positively         profusely
+passionately       philosophically    possessively       promisingly
+pathetically       physically         potently           properly
+patiently          piously            powerfully         protectively
+patronizingly      pitifully          powerlessly        proudly
+peacefully         playfully          precisely          provocatively
+penitently         pleadingly         pretentiously      psychotically
+pensively          pleasantly         prettily           purely
+perfectly          pleasurably        primly             puzzledly
+personably         pointedly          privately
+personally         politely           probingly
+persuasively       pompously          professionally
+quackishly         questioningly      quiescently        quixotically
+quaintly           quickly            quietly            quizzically
+rabidly            regretfully        resonantly         rightfully
+radiantly          relaxed            respectfully       rigorously
+rakishly           relentlessly       responsibly        romantically
+randomly           relieved           restlessly         roughly
+rapidly            religiously        reverently         royally
+readily            reluctantly        revoltingly        rudely
+really             reminiscently      rewardingly        ruefully
+reassuringly       remorsefully       rhythmically       ruthlessly
+rebelliously       repeatedly         richly
+recklessly         resentfully        ridiculously
+refreshingly       resignedly         righteously
+sadistically       shamefully         smartly            stunningly
+sadly              shamelessly        smilingly          stupidly
+sagely             sharply            smittenly          stylishly
+saintly            sheepishly         smoothly           suavely
+sanctimoniously    shiftily           smugly             submissively
+sanely             shrewdly           sneakily           subtly
+sarcastically      shrilly            soberly            subversively
+sardonically       shyly              socially           suddenly
+satanically        sickly             softly             sufferingly
+satirically        significantly      solemnly           suggestively
+savagely           silently           soothingly         sulkily
+sceptically        silly              sorrowfully        sullenly
+scornfully         simply             soundlessly        superficially
+searchingly        sincerely          southward          supportively
+secretively        sinfully           spastically        surprisingly
+seductively        sinisterly         speculatively      surreptitiously
+selfishly          sinuously          spitefully         suspiciously
+sensitively        sisterly           steadily           sweetly
+sensually          skeptically        stealthily         swiftly
+sensuously         skilfully          sternly            sycophantically
+sentimentally      sleepily           stiffly            sympathetically
+serenely           slightly           stoically          systematically
+seriously          slowly             strangely
+severely           sluggishly         strongly
+sexily             slyly              stubbornly
+tantalizingly      tentatively        thoroughly         totally
+tauntingly         terribly           thoughtfully       tragically
+tearfully          terror             threateningly      traumatically
+tearily            tersely            tightly            tremendously
+teasingly          thankfully         timelessly         triumphantly
+temporarily        theatrically       timidly            truly
+temptingly         theoretically      tiredly            trustfully
+tenderly           thinly             tirelessly         truthfully
+tensely            thirstily          tolerantly         tunelessly
+unashamedly        uncomfortably      unfavourably       unsatisfied
+unbearably         uncontrollably     unhappily          unwillingly
+unbelievingly      unconvincingly     unintentionally    uproariously
+uncaringly         understandingly    uninterestedly     urgently
+unceasingly        uneasily           unknowingly        utterly
+uncertainly        unexpectedly       unmercifully
+vacantly           viciously          virtuously         voraciously
+vaguely            victoriously       vividly            vulnerably
+vehemently         vigorously         vociferously
+venomously         violently          voluptuously
+wanly              wealthily          wildly             wonderfully
+wantingly          wearily            willingly          wonderingly
+wantonly           westward           winsomely          wordlessly
+warily             whimsically        wisely             worriedly
+warmly             wholeheartedly     wishfully          wryly
+warningly          wickedly           wistfully
+weakly             widely             wolfishly
+xenophobically
+yawningly          yearningly         yieldingly         youthfully
+zanily             zealously
+
+Of these, the following adverbs are replaced with a more suitable phrase:
+acidly          : like acid
+acknowledgingly : in acknowledgement
+agreement       : in agreement
+amazedly        : in amazement
+ceremonially    : in a ceremonial way
+concentratedly  : in concentration
+concernedly     : with concern
+conviction      : with conviction
+deadly          : in a deadly manner
+decliningly     : in declination
+disbelief       : in disbelief
+disorientedly   : in disorientation
+explanatorily   : in explanation
+forsakenly      : like one who is forsaken
+friendly        : in a friendly manner
+frustratedly    : in frustration
+horror          : in horror
+humiliatedly    : in humiliation
+interestedly    : with interest
+ooc             : out of character
+paranoid        : in a paranoid manner
+relaxed         : in a relaxed manner
+saintly         : in a saintly manner
+silly           : in a silly manner
+subtly          : in a subtle manner
+terror          : in terror
